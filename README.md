@@ -10,4 +10,7 @@ Funziona con:
 
 Telegram, Discord, TeamSpeak, FaceBook, Instagram, Gmail, Blocco Note, Word, e tutte le altre app dove si può scrivere.
 
-Per qualsiasi informazione potrete trovarmi su telegram, t.me/Pronunciare - t.me/TrustyProjects
+Per qualsiasi informazione potrete trovarmi su telegram, 
+
+Contattami: t.me/Pronunciare 
+Progetti: t.me/TrustyProjects
