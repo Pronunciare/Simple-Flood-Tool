@@ -12,5 +12,5 @@ Telegram, Discord, TeamSpeak, FaceBook, Instagram, Gmail, Blocco Note, Word, e t
 
 Per qualsiasi informazione potrete trovarmi su telegram, 
 
-Contattami: t.me/Pronunciare 
-Progetti: t.me/TrustyProjects
+#Contattami: t.me/Pronunciare 
+#Progetti: t.me/TrustyProjects
